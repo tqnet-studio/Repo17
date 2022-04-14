@@ -5,4 +5,26 @@
   body {
     background-image: url("https://image.ibb.co/cO9Lxq/login-bg.jpg");
   }
+  #wrapper{
+      width: 1200px;
+  }
   
+ #left {
+    width: 40%;
+    float: left;
+    padding: 0 20px;
+        }
+  
+  #right {
+    width: 60%;
+    float: right;
+    padding: 0 20px;
+  }
+
+
+  #wrapper p, a, label{
+      color: white;
+  }
+  #showcase h1{
+    color: white;
+}
